@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b3abd5b-517a-44f0-b675-7bc4d93215e9": {
+      "ProjectGuid": "9b3abd5b-517a-44f0-b675-7bc4d93215e9",
+      "DisplayName": "ToDOList",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
